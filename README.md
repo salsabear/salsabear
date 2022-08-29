@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salsabear
 - 👀 I’m interested in drawing & ui/ux design
 - 🌱 I’m currently learning graphic design
-- 💞️ I’m looking to collaborate on cooding
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me is just send me email
 
 <!---
